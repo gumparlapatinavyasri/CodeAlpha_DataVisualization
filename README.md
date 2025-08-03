@@ -56,7 +56,7 @@ This scatter plot shows scores improving with study time up to ~6 hours/day. Bey
 **Why this image?** — It provides clear evidence of diminishing returns and optimal effort zones. Essential insight for time management strategies.
 
 ###  Sleep vs Exam Score & Diet Quality  
-![Sleep Hours vs Exam Score](plots/sleep_diet_score_scatter.png)  
+![image alt](https://github.com/gumparlapatinavyasri/CodeAlpha_DataVisualization/blob/fa9a874092dfa2761d46a3f3b6faee79f67c200b/3.png)
 
 Colored dots represent students with poor, fair, or good diet quality. The plot shows diet moderating the impact of sleep duration on performance.  
 **Why this image?** — It connects physical wellness to performance. Adds depth to your behavioral model by showing that sleep’s effect isn't isolated — it's diet-dependent.
