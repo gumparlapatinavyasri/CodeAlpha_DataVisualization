@@ -62,7 +62,8 @@ Colored dots represent students with poor, fair, or good diet quality. The plot 
 **Why this image?** — It connects physical wellness to performance. Adds depth to your behavioral model by showing that sleep’s effect isn't isolated — it's diet-dependent.
 
 ###  Sleep vs Exam Score & Mental Health  
-![Sleep vs Exam Score with Mental Health Rating](plots/sleep_mental_score_scatter.png)  
+![image alt](https://github.com/gumparlapatinavyasri/CodeAlpha_DataVisualization/blob/889063521a74f96254d82f33826cfd9025c8e61e/4.png)
+
 
 Colored by mental health score (1–10 scale), this plot shows high mental wellness students tending to perform better across sleep ranges.  
 **Why this image?** — Introduces psychological factors, revealing how inner well-being enhances academic results. Vital for modern education analytics.
