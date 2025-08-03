@@ -25,7 +25,7 @@ Do better habits lead to better grades? This exploratory analysis investigates h
 ---
 
 ###  Distribution of Exam Scores  
-![Distribution of Exam Scores](plots/exam_scores_histogram.png)  
+![image alt](https://github.com/gumparlapatinavyasri/CodeAlpha_DataVisualization/blob/4d770e985eb53dc9972ae2fb7d763d928a7464c1/1.png)
 
 We start by understanding how students performed overall. This histogram reveals clustering of exam scores around 70 and 100. It sets the stage for deeper dives into contributing factors.  
 **Why this image?** — It defines the baseline and helps identify outliers and performance modes. Crucial for any performance-based analysis.
