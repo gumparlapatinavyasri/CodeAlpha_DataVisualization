@@ -49,7 +49,8 @@ We start by understanding how students performed overall. This histogram reveals
 ##  Key Insights
 
 ###  Study Time vs Exam Score  
-![Study Hours vs Exam Score](plots/study_vs_score_scatter.png)  
+![image alt](https://github.com/gumparlapatinavyasri/CodeAlpha_DataVisualization/blob/77b1e7b799b81ee1ca272a0f0820c4a63a9e19d5/2.png)
+
 
 This scatter plot shows scores improving with study time up to ~6 hours/day. Beyond that, performance plateaus.  
 **Why this image?** — It provides clear evidence of diminishing returns and optimal effort zones. Essential insight for time management strategies.
